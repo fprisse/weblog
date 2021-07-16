@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Jongens waren we
-date: 2021-07-16 18:20:00 +0100
-categories: vroeger
+title: Test Negatief
+date: 2021-07-15 18:00:00 +0100
+categories: corona
 ---
 
-### Een beetje wijzer misschien
+### Is allemaal goed gegaan, pff
 
-Sander, kon niet naar mijn feestje komen, stuurde me deze foto.
-Vamavond komt hij naar Amsterdam en gaan we samen lekker eten.
+Mini uitbraakje op het werk
 
-![jongens_sander](https://prisse.nl/assets/jongens_sander.jpg)
-vlnr. een vlam van Bas, Tammo, Hlgo, Ikke en Sander
+![210715test](https://prisse.nl/assets/210715test.png)
+
+Maar ik heb in ieder geval geen mensen op mijn verjaarsfeest kunnen aansteken, over vijf dagen nogeens testen maar.
