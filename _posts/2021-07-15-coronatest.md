@@ -7,7 +7,7 @@ categories: corona
 
 ### Is allemaal goed gegaan, pff
 
-Mini uitbraakje in mijn team op het werk
+Mini uitbraakje op het werk
 
 ![210715test](https://prisse.nl/assets/210715test.png)
 
