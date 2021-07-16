@@ -11,4 +11,4 @@ Sander, kon niet naar mijn feestje komen, stuurde me deze foto.
 Vamavond komt hij naar Amsterdam en gaan we samen lekker eten.
 
 ![jongens_sander](https://prisse.nl/assets/jongens_sander.jpg)
-vlnr. een vlam van Bas, Tammo, Hlgo, Ikke en Sander
+vlnr. een vlam van Bas, Tammo, Bas, Hlgo, Ikke en Sander
