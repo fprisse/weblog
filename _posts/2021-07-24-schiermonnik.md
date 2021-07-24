@@ -7,6 +7,6 @@ categories: Amsterdam
 
 ### De Noordzee op
 
-![laserschier](https://prisse.nl/assets/laserschier.jpg)
+![laserschier](https://prisse.net/laserschier.jpg)
 
 Dit verdient nog uitleg, maar in ieder geval, hebben we nu ook een laser op Schier om mee te spelen..
