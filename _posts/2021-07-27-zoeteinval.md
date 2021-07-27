@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zoete inval in Oostmahorn
-date: 2020-12-16 16:00:00 +0100
+date: 2021-07-27 16:00:00 +0100
 categories: mama
 ---
 
