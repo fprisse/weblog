@@ -1,6 +1,6 @@
 ---
 layout: post
-title: laser op Schier!
+title: Laser op Schier!
 date: 2021-07-24 12:41:00 +0100
 categories: Amsterdam
 ---
@@ -9,4 +9,4 @@ categories: Amsterdam
 
 ![laserschier](https://prisse.net/laserschier.jpg)
 
-Dit verdient nog uitleg, maar in ieder geval, hebben we nu ook een laser op Schier om mee te spelen..
+Dit verdient nog uitleg, maar in ieder geval, is er nu ook op Schier een laser om mee te spelen ...
