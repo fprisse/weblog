@@ -13,7 +13,6 @@ url: 'https://prisse.nl' # the base hostname & protocol for your site http://www
 # google_analytics: 'UA-XXXXXX-X'
 
 # Build settings
-markdown: kramdown
 
 permalink: '/:title/'
 
